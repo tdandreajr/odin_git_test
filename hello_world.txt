@@ -1,1 +1,2 @@
 Hello World file.
+Add line to test global git commit linkage to vscode.
